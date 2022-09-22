@@ -1,0 +1,12 @@
+package bank;
+
+public class Hdfc
+{
+
+	 public int getRateofInterest()
+	 {
+		 return 10;
+		 
+		 
+	 }
+} 
