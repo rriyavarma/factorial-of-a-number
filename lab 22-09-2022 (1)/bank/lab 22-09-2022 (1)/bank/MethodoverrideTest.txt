@@ -1,0 +1,20 @@
+package bank;
+
+public class MethodoverrideTest
+{
+
+	public static void main(String[] args) 
+	{
+		Bank bankref = new Hdfc();
+		int rateofInterest = bankref.getRateofInterest();
+		
+		System.out.println("Rate of Interest provided by HDFC: "+ rateofInterest);
+		
+		bankref = new Icici();
+		rateofInterest = bankref.getRateofInterest()
+		
+		System.out.println("Rate of Interest provided by Icici: + rateofInterest");
+
+	}
+
+}

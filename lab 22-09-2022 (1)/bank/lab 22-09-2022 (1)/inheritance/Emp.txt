@@ -1,0 +1,33 @@
+class Emp extends Person
+ 
+{
+ 
+class Emp extends Person
+ 
+{
+Emp()
+ 
+{
+ 
+System.out.println("Emp constructor");
+ 
+}
+ 
+void organization()
+ 
+{
+ 
+System.out.println("IBM");
+ 
+}
+ 
+void place()
+ 
+{
+ 
+System.out.println("New York");
+ 
+}
+ 
+}
+ 
