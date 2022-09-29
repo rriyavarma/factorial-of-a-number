@@ -1,0 +1,4 @@
+Enter the string you want to check:evenorodd
+The string is not palindrome.
+Enter the string you want to check:NeveroddorEven
+The string is palindrome.
